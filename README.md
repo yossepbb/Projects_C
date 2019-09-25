@@ -1,2 +1,2 @@
 # Projects_C
-Ce repertoire contien les codes sources des différents projets sur les quels je travaille.
+Ce repertoire contient les codes sources des différents projets en langage C sur les quels je travaille.
